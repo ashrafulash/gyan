@@ -1,0 +1,371 @@
+@media (min-width: 320px) and (max-width:575px)
+{
+    #header_part{
+        margin-bottom: 10px;
+    }
+    
+    .p{
+        
+        padding: 0!important;
+    }
+    
+    #header_part .nav_header{
+        padding: 0 5px;
+    }
+    
+    #header_part .nav_header ul li p {
+	    font-size: 10px;
+	    margin-right: 3px;
+    }
+    
+    #header_part .nav_header .header_right{
+        background: #2d3e50;
+        text-align: center;
+        padding: 0!important;
+        margin-top: -33px;
+    }
+    
+    .manu .navbar {
+        position: absolute;
+        top: 48px;
+        left: 8px;
+        z-index: 99;
+        text-align: center;
+        padding-bottom: 56px;
+    }
+    
+    
+    nav ul{
+        background: red;
+    }
+    
+    .navbar-expand-lg .navbar-nav .nav-link {
+         padding-top: 0!important; 
+    }
+    
+    .manu .navbar .navbar-brand img{
+        padding-right: 100px;
+    }
+    
+    .manu .navbar .navbar-toggler-icon{
+        float: right;
+    }
+    
+    .manu ul li a.get_start{
+        width: 170px;
+        margin-left: 42px;
+    }
+    
+    #banner_part {
+        padding-top: 83px;
+    }
+    
+    #banner_part .banner_head h2 {
+        font-size: 25px;
+    }
+    
+    #banner_part .banner_head h3 {
+        font-size: 28px;
+    }
+    
+    #banner_part .banner_head a.btn_course {
+        font-size: 14px;
+        padding: 8px 12px;  
+        margin-left: 7px;
+    }
+    
+    #banner_part .banner_head a.btn_tour{
+        font-size: 14px;
+        padding: 8px 15px; 
+    }
+    
+    .banner_next {
+        font-size: 15px;
+        position: absolute;
+        top: 80%;
+        left: 77%;
+        height: 40px;
+        width: 40px;
+        line-height: 40px;
+        text-align: center;
+        border: 1px solid #fff;
+        border-radius: 50%;
+    }
+    
+    .banner_prev {
+	    font-size: 15px;
+        position: absolute;
+        top: 80%;
+        right: 63%;
+        height: 40px;
+        width: 40px;
+        line-height: 40px;
+        text-align: center;
+        border: 1px solid #fff;
+        border-radius: 50%;
+    }
+    
+    #about_part {
+        width: 100%;
+         padding-top: 0!important; 
+        padding-bottom: 100px;
+    }
+    
+    .about_left{
+        margin-top: 400px;
+    }
+    
+    .about_left .slick-dots {
+        top: 71%;
+    }
+    
+    .about_button{
+        margin: 0 auto;
+        padding-left: 11px;
+    }
+    
+    .about_button a {
+        font-size: 13px;
+    }
+    
+    #about_part .about_us {
+	    padding: 0!important;
+    }
+    
+    #counter_part .count .counter_slide .counter1 p {
+        font-weight: 400;
+        font-size: 12px;
+    }
+    
+    #counter_part .count .counter_slide .counter1 h3 {
+        font-size: 26px;
+        font-weight: 400;
+    }
+    
+    #counter_part .count .counter_slide .counter1 img {
+        width: 40px;
+        margin-top: -53px;
+    }
+    
+    #courses .our_course .course_title{
+        padding: 0!important;
+        padding-top: 50px!important;
+    }
+    
+    #courses .our_course .course_title h2 {
+        margin-top: -100px;
+    }
+    
+    #courses .our_course .course_title p {
+         padding: 0!important; 
+    }
+    
+    #courses .slick-list.draggable {
+        height: 834px;
+    }
+    
+    #courses .our_course .course1 {
+	width: 317px;
+	margin-left: 20px;
+}
+    
+    #courses .our_course .course1 a.enroll {
+        padding: 9px 13px;
+        font-size: 10px;
+    }
+    
+    #courses .our_course .course1 .course1_bottom {
+         padding-top: 0px; 
+         padding-bottom: 0px; 
+    }
+    
+    .course_prev {
+        font-size: 20px;
+        top: 88%;
+        right: 64%;
+        height: 35px;
+        width: 35px;
+        line-height: 35px;
+    }
+    
+    .course_next {
+        font-size: 20px;
+        top: 88%;
+        left: 73%;
+        height: 35px;
+        width: 35px;
+        line-height: 35px;
+    }
+    
+    #courses {
+        margin-top: 100px;
+    }
+    
+    #event .event_title {
+         padding: 0; 
+    }
+    
+    #event .event_title p {
+         padding: 0; 
+    }
+    
+    #event .event_part .event_side2 .event_one .event_three h3 {
+        margin-top: 20px;
+    }
+    
+    #testimonial .test_title h2 {
+        font-size: 22px;
+    }
+    
+    #testimonial .test_title p {
+         padding: 0; 
+    }
+    
+    #testimonial .test_title {
+         padding: 0; 
+    }
+    
+    #testimonial .test_details .test_left .test_left2{
+        text-align: center;
+    }
+    
+    #testimonial .test_details .test_left .test_left2 p {
+	 padding-bottom: 0; 
+}
+    
+    #testimonial .test_details .test_left .test_left2 h3 {
+	font-size: 14px;
+	margin-left: 30px;
+}
+    
+    #testimonial .test_details .test_left .test_left2 h3 span {
+        font-size: 10px;
+    }
+    
+    #testimonial .btn-link {
+        font-size: 14px;
+        width: 89%;
+    }
+    
+    #testimonial .test_right .card-body {
+        font-size: 10px;
+         padding-top: 0; 
+         margin-bottom: 0; 
+    }
+    
+    #teacher .teacher_title{
+        padding: 0;
+    }
+    
+    #teacher .teacher_title h2 {
+        font-size: 22px;
+    }
+    
+    #teacher .teacher_title p {
+        font-size: 11px;
+         padding: 0; 
+    }
+    
+    #blog {
+         padding: 0; 
+        padding-bottom: 618px;
+    }
+    
+    #blog .blog_part .blog_section .blog_title{
+        text-align: left!important;
+    }
+    
+    #blog .blog_part .blog_section .blog_title h2 {
+        margin-left: 100px;
+    }
+    
+    #blog .blog_part .blog_section .blog_title p {
+        font-size: 11px;
+        padding: 20px 23px;
+    }
+    
+    #blog .blog_part .blog_section .blog_img .blog_img1 {
+        margin-bottom: 20px;
+    }
+    
+    #blog .blog_part .blog_section .blog_img .blog_img1 a h4 {
+	font-size: 13px;
+	bottom: 50px;
+	left: 5px;
+}
+    
+    
+    #blog .blog_part .blog_section .blog_img .blog_img1 a p {
+        font-size: 11px;
+        bottom: 24px;
+        left: 20px;
+    }
+    
+    #blog .blog_part .blog_section .blog_img .blog_img1 .blog_icon2 {
+        left: 7px;
+        bottom: 9px;
+        font-size: 10px;
+        width: 210px;
+    }
+    
+    #blog .blog_part .blog_section .blog_img .blog_img1 .blog_icon2 p {
+        font-size: 11px;
+        margin-bottom: -10px;
+    }
+
+    
+    #blog .blog_part .blog_section .blog_img .blog_img1 .blog_icon {
+        right: 29px;
+        top: 4px;
+    }
+    
+    
+    #blog .blog_part .blog_section .blog_img .blog_img1 .blog_icon i {
+        color: white;
+        font-size: 16px;
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+    }
+    
+    #footer {
+        padding: 50px 0;
+        margin-top: 900px;
+    }
+    
+    #blog .blog_part .blog_section .blog_img .blog_small .blog_small1 .blog_small2 {
+        margin-left: 44px;
+    }
+    
+    #blog .blog_part .blog_section .blog_img .blog_small .blog_small1 .blog_small2 .blog_icon {
+        right: 98px;
+    }
+    
+    .contact, .quick_link, .address{
+        text-align: center;
+        margin-bottom: 40px;
+    }
+    
+    #footer .footer_part .contact_part .contact ul li a i {
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        text-align: center;
+        font-size: 14px;
+    }
+    
+    #footer .footer_part .contact_part .address ul li a i{
+        margin-bottom: 20px;
+    }
+    
+    #boottom {
+        padding: 0 !important;
+        margin-left: 27px;
+    }
+    
+    #boottom .botto_part {
+        padding: 0 !important;
+    }
+    
+    
+}
